@@ -39,10 +39,12 @@ Welcome to the "Understanding Deep Learning" course by Simon J.D. Prince, publis
 
 ### Get in Touch
 
-- [Youtube](https://www.youtube.com/@PossibleCode)
-- [LinkedIn](https://www.linkedin.com/in/syed-mohsin-bukhari/)
-- [Mail](mailto:smayour82@gmail.com)
-
+- [![Mail](https://img.shields.io/badge/Mail-Contact-informational?style=for-the-badge&logo=gmail)](mailto:smayour82@gmail.com)
+- [![Visit Website](https://img.shields.io/badge/Visit%20Website-Portfolio-blue?style=for-the-badge)](https://mayourbukhari.github.io/Personal-Portfolio)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-mohsin-bukhari/)  
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ArraySurvey)  
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/mayourbukhari)  
+- [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mayour_writes)
 ## Citation
 ```bibtex
 @book{prince2023understanding,
